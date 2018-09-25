@@ -1,0 +1,9 @@
+Package: com.jevinskie.mobile-image-mounter-unsigned
+Name: mobile-image-mounter-unsigned
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jevin Sweval
+Author: Jevin Sweval
+Section: Tweaks

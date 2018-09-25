@@ -1,0 +1,6 @@
+[submodule "jb-ddi-xcode-plugin/jb-ddi-xcode-plugin/CaptainHook"]
+	path = jb-ddi-xcode-plugin/jb-ddi-xcode-plugin/CaptainHook
+	url = https://github.com/rpetrich/CaptainHook/
+[submodule "mobile_image_mounter_unsigned/patchfinder64"]
+	path = mobile_image_mounter_unsigned/patchfinder64
+	url = git@bitbucket.org:jevinskie/ios-jailbreak-patchfinder64.git
